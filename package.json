@@ -14,7 +14,9 @@
   ],
   "author": "",
   "license": "MIT",
-  "engines.node": "v8.14.0",
+  "engines": {
+    "node": "8.14.0"
+  },
   "dependencies": {
     "apicache": "^1.2.1",
     "express": "^4.16.3",
